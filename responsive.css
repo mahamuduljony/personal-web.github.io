@@ -1,0 +1,100 @@
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+
+}
+
+
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    
+    .headers .text-box {
+        padding:15px 15px;
+        
+    }
+    .cd-headline {
+        font-size: 20px;
+        padding-bottom:10px;
+    }
+    .navbar-collapse {
+        text-align:center;
+       
+    }
+    
+    .navbar-default 
+	.navbar-nav > .active > a,
+	.navbar-default .navbar-nav > .active > a:hover,
+	.navbar-default .navbar-nav > .active > a:focus {
+	    color: #F82249;
+	    background-color: transparent;
+	}
+    #footer .icons {
+        text-align:center;
+        margin-top:20px;
+    }
+
+}
+
+
+
+@media screen and (max-width:479px) {
+    .headers .text-box {
+        padding:15px 15px;
+        
+    }
+    .cd-headline {
+        font-size: 17px;
+        padding-bottom:10px;
+    }
+    .navbar-collapse {
+        text-align:center;
+       
+    }
+    .navbar-default 
+	.navbar-nav > .active > a,
+	.navbar-default .navbar-nav > .active > a:hover,
+	.navbar-default .navbar-nav > .active > a:focus {
+	    color: #F82249;
+	    background-color: transparent;
+	}
+    .text-box h2{
+        font-size:30px;
+    }
+    .text-box p {
+        font-size:30px;
+    }
+    #footer .icons {
+        text-align:center;
+        margin-top:20px;
+    }
+
+}
+
+
+@media screen and (max-width:320px) {
+    
+    .navbar-collapse {
+        text-align:center;
+       
+    }
+    .headers .text-box {
+        padding:15px 15px;
+        
+    }
+    .cd-headline {
+        font-size: 17px;
+        padding-bottom:10px;
+    }
+    .navbar-default 
+	.navbar-nav > .active > a,
+	.navbar-default .navbar-nav > .active > a:hover,
+	.navbar-default .navbar-nav > .active > a:focus {
+	    color: #F82249;
+	    background-color: transparent;
+	}
+    #footer .icons {
+        text-align:center;
+        margin-top:20px;
+    }
+
+}
